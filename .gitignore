@@ -1,0 +1,13 @@
+# Compiled binaries
+devops-go-app
+*.exe
+
+# Environment files
+.env
+
+# IDE settings
+.vscode/
+.idea/
+
+# Test outputs
+coverage.out
